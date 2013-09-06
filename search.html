@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>Autocomplete Test</title>
+		<script type="text/javascript" src="ajax_autocomplete.js">
+		</script>
+	</head>
+	<body>
+		<form name="autocomplete_form" AUTOCOMPLETE="off" ID="autocomplete_form" action="tracker.rb" method="GET" 
+					enctype="application/x-www-form-urlencoded" target="tracker_frame">
+			AutoComplete Text Box:<br />
+			<input type="text" name="tags" id="autocomplete_value" style="width:500px;" onkeyup="ajax_autocomplete('autocomplete_value');" />
+			<input type="submit" value="Search" name="submit" /><input type="submit" value="Refresh" name="submit" /><br />
+			<div style="border:1px solid;margin:0;padding:0;width:500px;" id="dropdown"></div>
+		</form>
+	</body>
+</html>
+

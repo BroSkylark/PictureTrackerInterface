@@ -1,0 +1,208 @@
+<tag name=".">
+  <tag name="character">
+    <tag name="digimon">
+      <tag name="adventure">
+        <tag name="tai" />
+        <tag name="matt" />
+        <tag name="tk" />
+        <tag name="joey" />
+        <tag name="izzy" />
+        <tag name="agumon_family">
+          <tag name="koromon" />
+          <tag name="agumon" />
+          <tag name="greymon" />
+          <tag name="metalgreymon" />
+          <tag name="wargreymon" />
+        </tag>
+        <tag name="gabumon_family">
+          <tag name="gabumon" />
+          <tag name="garurumon" />
+          <tag name="weregarurumon" />
+          <tag name="metallgarurumon" />
+        </tag>
+      </tag>
+      <tag name="adventure2">
+        <tag name="davis" />
+        <tag name="tk" />
+        <tag name="ken" />
+        <tag name="veemon_family">
+          <tag name="veemon" />
+          <tag name="xveemon" />
+          <tag name="flamedramon" />
+        </tag>
+      </tag>
+      <tag name="frontier">
+        <tag name="takuya" />
+        <tag name="kouji" />
+        <tag name="kouichi" />
+      </tag>
+    </tag>
+    <tag name="dragonballz">
+      <tag name="son">
+        <tag name="goku" />
+        <tag name="gohan" />
+        <tag name="goten" />
+      </tag>
+      <tag name="trunks">
+        <tag name="mirai" />
+        <tag name="chibi" />
+      </tag>
+      <tag name="vegeta" />
+      <tag name="buu" />
+      <tag name="17" />
+    </tag>
+    <tag name="homestuck">
+      <tag name="human">
+        <tag name="dirk" />
+        <tag name="dave" />
+        <tag name="jake" />
+        <tag name="john" />
+      </tag>
+      <tag name="troll">
+        <tag name="karkat" />
+        <tag name="tavros" />
+        <tag name="rufioh" />
+      </tag>
+      <tag name="brobot" />
+      <tag name="davesprite" />
+    </tag>
+    <tag name="fate_zero">
+      <tag name="gilgamesh" />
+      <tag name="lancer" />
+      <tag name="kirei" />
+      <tag name="shirou" />
+      <tag name="enkitu" />
+    </tag>
+    <tag name="calvin_and_hobbes" />
+    <tag name="breaking_bad">
+      <tag name="flynn" />
+      <tag name="walter" />
+      <tag name="jesse" />
+      <tag name="gustavo" />
+    </tag>
+    <tag name="kenichi_the_mightiest_disciple">
+      <tag name="kenichi" />
+      <tag name="tanimoto" />
+    </tag>
+    <tag name="tengen_toppa_gurren_lagan">
+      <tag name="simon" />
+      <tag name="kamina" />
+    </tag>
+    <tag name="avengers">
+      <tag name="thor" />
+      <tag name="loki" />
+      <tag name="ironman" />
+      <tag name="hulk" />
+      <tag name="captain_america" />
+    </tag>
+    <tag name="darker_than_black">
+      <tag name="rei" />
+    </tag>
+    <tag name="rotbtd">
+      <tag name="jack_frost" />
+      <tag name="hiccup" />
+    </tag>
+    <tag name="video_games">
+      <tag name="megaman">
+        <tag name="x" />
+        <tag name="zero" />
+        <tag name="original" />
+      </tag>
+      <tag name="loz">
+        <tag name="link" />
+        <tag name="zelda" />
+        <tag name="pippit" />
+      </tag>
+      <tag name="metroid">
+        <tag name="samus" />
+      </tag>
+      <tag name="pokemon">
+        <tag name="trainer_red" />
+        <tag name="ethan" />
+        <tag name="ash" />
+        <tag name="trainer_silver" />
+        <tag name="lance" />
+      </tag>
+    </tag>
+    <tag name="supernatural">
+      <tag name="sam" />
+      <tag name="dean" />
+      <tag name="bobby" />
+      <tag name="castiel" />
+      <tag name="lucifer" />
+    </tag>
+    <tag name="attack_on_titan" />
+    <tag name="blue_exorcist">
+      <tag name="rin" />
+      <tag name="shima" />
+    </tag>
+  </tag>
+  <tag name="real" />
+  <tag name="art" />
+  <tag name="gif" />
+  <tag name="sprite">
+    <tag name="sheet" />
+  </tag>
+  <tag name="rom">
+    <tag name="cute">
+      <tag name="male">
+        <tag name="gay">
+          <tag name="romance">
+            <tag name="kiss" />
+          </tag>
+          <tag name="bromance" />
+        </tag>
+      </tag>
+      <tag name="squee" />
+    </tag>
+  </tag>
+  <tag name="photoshop" />
+  <tag name="epic">
+    <tag name="armor">
+      <tag name="body" />
+      <tag name="gauntlet" />
+      <tag name="mask" />
+    </tag>
+    <tag name="funny" />
+    <tag name="amputee">
+      <tag name="arm" />
+      <tag name="quad" />
+    </tag>
+    <tag name="video_games">
+      <tag name="metroid">
+        <tag name="super_metroid" />
+        <tag name="metroid_prime" />
+      </tag>
+      <tag name="minecraft" />
+      <tag name="team_fortress" />
+      <tag name="pokemon">
+        <tag name="red" />
+        <tag name="gold" />
+        <tag name="ruby" />
+        <tag name="firered" />
+      </tag>
+      <tag name="loz">
+        <tag name="skyward_sword" />
+        <tag name="twilight_princess" />
+        <tag name="minish_cap" />
+        <tag name="ocarina_of_time" />
+        <tag name="majoras_mask" />
+      </tag>
+      <tag name="super_mario">
+        <tag name="super_mario_sunshine" />
+        <tag name="mario_n64" />
+        <tag name="super_mario_bros" />
+        <tag name="paper_mario" />
+      </tag>
+    </tag>
+    <tag name="sports">
+      <tag name="gymnastics" />
+      <tag name="athletics" />
+    </tag>
+    <tag name="animals">
+      <tag name="lion" />
+      <tag name="tiger" />
+      <tag name="snake" />
+    </tag>
+  </tag>
+</tag>
